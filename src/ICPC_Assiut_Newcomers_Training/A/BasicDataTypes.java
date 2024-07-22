@@ -1,4 +1,4 @@
-package A;
+package ICPC_Assiut_Newcomers_Training.A;
 
 import java.util.Scanner;
 
