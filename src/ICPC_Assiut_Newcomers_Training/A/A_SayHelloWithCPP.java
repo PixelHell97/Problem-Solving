@@ -2,7 +2,7 @@ package ICPC_Assiut_Newcomers_Training.A;
 
 import java.util.Scanner;
 
-public class SayHelloWithCPP {
+public class A_SayHelloWithCPP {
     public static void main(String[] args) {
 
         Scanner cin = new Scanner(System.in);
